@@ -26,11 +26,11 @@ const projects = [
         image: mediRapidImg,
     },
     {
-        title: 'DHRMS',
+        title: 'MediSync',
         subtitle: 'Digital Health Record Management System',
         description: 'A secure digital health platform for managing patient records and medical histories. Improved data accessibility and reduced manual handling by 40%. Features optimized backend logic and efficient database queries, resulting in 30% faster data retrieval and 35% reduced latency. Enhanced overall user experience for medical staff with a reliable and user-friendly interface.',
         tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'REST APIs', 'Vite', 'JavaScript'],
-        github: import.meta.env.VITE_APP_GITHUB_DHRMS,
+        github: import.meta.env.VITE_APP_GITHUB_MEDISYNC,
         demo: '#',
         image: dhrmsImg,
     }
